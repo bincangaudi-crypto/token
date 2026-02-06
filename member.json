@@ -18,7 +18,7 @@
     "username": "roy",
     "password": "cimangcu",
     "expiresAt": "2026-12-31",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "7a90d617048c4ab4",
