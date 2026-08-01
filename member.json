@@ -47,5 +47,12 @@
     "password": "tabong1",
     "expiresAt": "2026-12-25",
     "allowOffline": false
+  },
+  {
+    "id": "cfec4ad530587246",
+    "username": "tes",
+    "password": "tes",
+    "expiresAt": "2027-08-01",
+    "allowOffline": true
   }
 ]
