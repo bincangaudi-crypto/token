@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "f4d71d0e7946fdbf",
+    "username": "naga",
+    "password": "audi",
+    "expiresAt": "2028-08-01",
+    "allowOffline": true
+  }
+]
