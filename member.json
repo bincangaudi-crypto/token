@@ -19,5 +19,12 @@
     "password": "Trial10",
     "expiresAt": "2026-08-10",
     "allowOffline": true
+  },
+  {
+    "id": "a897ca43e26cfbb9",
+    "username": "Trial12",
+    "password": "Trial12",
+    "expiresAt": "2026-08-10",
+    "allowOffline": true
   }
 ]
